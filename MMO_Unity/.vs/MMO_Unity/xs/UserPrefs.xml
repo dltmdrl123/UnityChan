@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{25634596-72EF-6BDD-9B4F-604CE48580E5}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="45de2f84-5c2b-403b-998e-30a633962c1b" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller/MonsterController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller/PlayerController.cs" Line="233" Column="31" />
+      <File FileName="Assets/Scripts/Controller/MonsterController.cs" Line="18" Column="36" />
+      <File FileName="Assets/Scripts/Controller/BaseController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Managers/Managers.cs" />
+      <File FileName="Assets/Scripts/Contents/Stat.cs" />
+      <File FileName="Assets/Scripts/Scenes/GameScene.cs" Line="27" Column="62" />
+      <File FileName="Assets/Scripts/Contents/PlayerStat.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Data/StatData.json" Line="22" Column="2" />
+      <File FileName="Assets/Scripts/Contents/SpawningPool.cs" Line="45" Column="43" />
+      <File FileName="Assets/Scripts/Managers/Contents/GameManagerEx.cs" Line="39" Column="47" />
+      <File FileName="Assets/Scripts/Utils/Util.cs" Line="7" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MMO_Unity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Art" expanded="True">
+                  <Node name="Town" expanded="True" />
+                </Node>
+                <Node name="Data" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Contents" expanded="True" />
+                <Node name="Controller" expanded="True" />
+                <Node name="Data" expanded="True" />
+                <Node name="Managers" expanded="True">
+                  <Node name="Contents" expanded="True" />
+                </Node>
+                <Node name="Scenes" expanded="True" />
+                <Node name="UI" expanded="True">
+                  <Node name="Popup" expanded="True" />
+                  <Node name="Scene" expanded="True" />
+                  <Node name="SubItem" expanded="True" />
+                  <Node name="WorldSpace" expanded="True" />
+                </Node>
+                <Node name="Utils" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
